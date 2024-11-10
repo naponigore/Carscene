@@ -1,21 +1,73 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "naponigore",
+    "is_private": false,
+    "title": "West Beirut (1998) Car scene",
+    "description": "West Beirut (1998), directed by Ziad Doureiri, is a Lebanese drama film set during the Lebanese Civil War, specifically in 1975. The film shows the story of a sixteen year old boy named Tarek living in Beirut, navigating through drastic and chaotic changes in his environment. The film is presented through Tarek's perspective, which gives a naive lens of the violence and political confusion that seizes the country. Tarek and his two friends, Omar and May, spend their days trying to maintain a sense of normalcy, despite the war breaking out around them.",
+    "language": "en",
+    "slug": "Carscene",
+    "creator": "naponigore",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "0:01",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "1:45",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "1:11",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "1:30",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "1:32",
+          "color": "#99AFF2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tarek and Omar realize neither of them know where May went. The characters are upset when May is missing because their is an ongoing war fueled by religious extremism.",
+          "category": "0:01"
+        },
+        {
+          "tag": "The characters' interactions and expressions reflect the tension and chaos of the setting, while the handheld camera style and tight framing immerse viewers in the experience. This initial part sets the stage for exploring the complexities of daily life in a conflict zone.",
+          "category": "0:01"
+        },
+        {
+          "tag": "The camera captures their expressions in tight shots, emphasizing their reactions to the unfolding chaos. Sounds of gunfire and street noise blend with urgent conversations, heightening the sense of vulnerability. This segment adds layers to the characters' personal struggles, contrasting their everyday interactions with the unpredictability and danger of life in a war zone.",
+          "category": "1:45"
+        },
+        {
+          "tag": "Car honking, yelling, screeching",
+          "category": "1:11"
+        },
+        {
+          "tag": "The dialogue becomes sparse, allowing ambient sounds—shouts, explosions, and background noise—to take precedence, creating an intense sensory experience. The characters’ expressions, captured in close-up shots, reveal a mix of fear, frustration, and resignation. The sequence ends without resolution, emphasizing the relentless uncertainty of life in a conflict zone and leaving viewers with a lingering sense of tension and empathy for those affected by the war.",
+          "category": "1:30"
+        },
+        {
+          "tag": "Gunshots",
+          "category": "1:32"
+        }
+      ]
+    },
+    "created_at": "2024-11-10T06:56:21.561Z",
+    "updated_at": "2024-11-10T06:56:21.561Z"
   }
 }
