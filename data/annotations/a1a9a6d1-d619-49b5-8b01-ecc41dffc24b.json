@@ -1,5 +1,132 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tarek and Omar realize neither of them know where May went. The characters are upset when May is missing because their is an ongoing war fueled by religious extremism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "9344f447-fd34-44a8-83a7-76c23ce1ce36"
+    },
+    {
+      "start_time": 1,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The characters' interactions and expressions reflect the tension and chaos of the setting, while the handheld camera style and tight framing immerse viewers in the experience. This initial part sets the stage for exploring the complexities of daily life in a conflict zone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cinematography"
+        }
+      ],
+      "uuid": "0ee161d3-30d4-4fcc-a856-2968f1b9bdd7"
+    },
+    {
+      "start_time": 105,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera captures their expressions in tight shots, emphasizing their reactions to the unfolding chaos. Sounds of gunfire and street noise blend with urgent conversations, heightening the sense of vulnerability. This segment adds layers to the characters' personal struggles, contrasting their everyday interactions with the unpredictability and danger of life in a war zone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cinematography"
+        }
+      ],
+      "uuid": "8d4d7e57-8746-4ca8-83d5-322e319cc9c9"
+    },
+    {
+      "start_time": 71,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Car honking, yelling, screeching"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sounds"
+        }
+      ],
+      "uuid": "1e739ae2-d320-4237-8570-b17e49312dde"
+    },
+    {
+      "start_time": 90,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dialogue becomes sparse, allowing ambient sounds—shouts, explosions, and background noise—to take precedence, creating an intense sensory experience. The characters’ expressions, captured in close-up shots, reveal a mix of fear, frustration, and resignation. The sequence ends without resolution, emphasizing the relentless uncertainty of life in a conflict zone and leaving viewers with a lingering sense of tension and empathy for those affected by the war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cinematography"
+        }
+      ],
+      "uuid": "9efd4f3b-3d14-4a55-bd1c-6485c96cadd3"
+    },
+    {
+      "start_time": 92,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gunshots"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sounds"
+        }
+      ],
+      "uuid": "90678a9f-3229-4ac3-a4d4-2e5ed9945f54"
+    }
+  ],
   "set": "Default",
   "event_id": "6a83034d-6e51-4259-842d-0a613cf4962c",
   "source_id": "9b9c696b-2e45-4546-a590-73752f2bdc3e"
