@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "9b9c696b-2e45-4546-a590-73752f2bdc3e": {
+      "label": "S1576 , T86-243",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=KViRZ6tiI9U",
+      "duration": 123
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "West Beirut",
+  "created_at": "2024-11-11T19:05:23.046Z",
+  "created_by": "naponigore",
+  "updated_at": "2024-11-11T19:05:23.046Z",
+  "updated_by": "naponigore"
+}

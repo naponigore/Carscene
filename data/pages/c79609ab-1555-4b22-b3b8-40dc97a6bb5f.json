@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-11T19:05:23.189Z",
+  "created_by": "naponigore",
+  "title": "West Beirut",
+  "slug": "west-beirut",
+  "updated_at": "2024-11-11T19:05:23.189Z",
+  "updated_by": "naponigore",
+  "parent": "1a22dd04-98eb-4881-926d-d6169b1d9691",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "6a83034d-6e51-4259-842d-0a613cf4962c"
+  }
+}
